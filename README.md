@@ -3,6 +3,7 @@
 ## Tutorials
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/racket/) -- Where X = Racket
+* [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)
 * [Racket Workflow](https://www.greghendershott.com/2014/11/racket-workflow.html)
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 * [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
@@ -29,6 +30,12 @@
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
 
+## Libraries
+
+* [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html)
+* [Math Library](https://docs.racket-lang.org/math/index.html)
+* [Benchmark](https://docs.racket-lang.org/benchmark/index.html)
+* [CPU Information](https://docs.racket-lang.org/cpuinfo/index.html)
 
 ## Packages
 
