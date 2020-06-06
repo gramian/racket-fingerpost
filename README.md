@@ -32,16 +32,18 @@
 
 ## Libraries
 
+* [RackUnit](https://docs.racket-lang.org/rackunit/) -- Unit Testing
 * [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html)
 * [Math Library](https://docs.racket-lang.org/math/index.html)
 * [Benchmark](https://docs.racket-lang.org/benchmark/index.html)
 * [CPU Information](https://docs.racket-lang.org/cpuinfo/index.html)
+* [Graph Plotting](https://docs.racket-lang.org/plot/index.html)
 
 ## Packages
 
-* [RackUnit](https://docs.racket-lang.org/rackunit/) -- Unit Testing
 * [PLT-Racket-Linear-Algebra-Bindings](https://github.com/farr/PLT-Racket-Linear-Algebra-Bindings) -- BLAS/LAPACK bindings
 * [flmatrix](https://github.com/soegaard/flmatrix) -- BLAS/LAPACK bindings
+* [racket-review](https://github.com/Bogdanp/racket-review) -- Linter
 
 ## Articles
 
@@ -59,6 +61,8 @@
 
 * [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)
 * [Racket Programming](https://www.youtube.com/playlist?list=PLsWq88lFdQCfZtDRUQVuGGbnthiEIeQdf)
+* [Functional Programming (Racket)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
+* [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
 
 ## Misc
 
