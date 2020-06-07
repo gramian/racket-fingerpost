@@ -72,6 +72,7 @@
 * [Racket Programming](https://www.youtube.com/playlist?list=PLsWq88lFdQCfZtDRUQVuGGbnthiEIeQdf)
 * [Functional Programming (Racket)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
+* [Meta-Programming in Racket](https://youtu.be/Duvf1_GAZHM)
 
 ## Misc
 
