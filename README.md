@@ -56,6 +56,7 @@
 
 ## Articles
 
+* M. Flatt: "[Creating Languages in Racket](https://doi.org/10.1145/2063176.2063195)", 2011.
 * N. Toronto. J. McCarthy: "[Practically Accurate Floating-Point Math](https://doi.org/10.1109/MCSE.2014.90)", 2014.
 * M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi, E. Barzilay, J. McCarthy, S. Tobin-Hochstadt: "[The Racket Manifesto](https://doi.org/10.4230/LIPIcs.SNAPL.2015.113)", 2015.
 * M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi, E. Barzilay, J. McCarthy, S. Tobin-Hochstadt: "[A Programmable Programming Language](https://doi.org/10.1145/3127323)", 2018.
@@ -76,11 +77,11 @@
 
 ### Talks
 
-* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)
+* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk) -- Lambda World 2019
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
-* [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)
-* [Why JSON when you can DSL?](https://youtu.be/fJvef31CuU0)
-* [Make your own language with Racket A kickstart workshop for the creative minds](https://youtu.be/fJvef31CuU0)
+* [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
+* [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
+* [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
 
 ## Misc
 
