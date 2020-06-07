@@ -4,7 +4,6 @@
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/racket/) -- Where X = Racket
 * [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)
-* [Racket Workflow](https://www.greghendershott.com/2014/11/racket-workflow.html)
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 * [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
 * [Macros and Languages in Racket](https://rmculpepper.github.io/malr/index.html)
@@ -18,10 +17,11 @@
 
 ## Blogs
 
-* [Learn Racket by Example: GUI Programming](https://dev.to/goober99/learn-racket-by-example-gui-programming-3epm)
 * [Racket Makefiles](https://www.greghendershott.com/2017/04/racket-makefiles.html)
-* [Scheme for scientific computing](http://fmnt.info/blog/20181029_scheme.html)
+* [Racket Workflow](https://www.greghendershott.com/2014/11/racket-workflow.html)
+* [Learn Racket by Example: GUI Programming](https://dev.to/goober99/learn-racket-by-example-gui-programming-3epm)
 * [The programming language of your dreams](rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
+* [Scheme for scientific computing](http://fmnt.info/blog/20181029_scheme.html)
 
 ## Resources
 
@@ -68,11 +68,19 @@
 
 ## Videos
 
-* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)
+### Tutorials
+
 * [Racket Programming](https://www.youtube.com/playlist?list=PLsWq88lFdQCfZtDRUQVuGGbnthiEIeQdf)
 * [Functional Programming (Racket)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
-* [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
 * [Meta-Programming in Racket](https://youtu.be/Duvf1_GAZHM)
+
+### Talks
+
+* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)
+* [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
+* [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)
+* [Why JSON when you can DSL?](https://youtu.be/fJvef31CuU0)
+* [Make your own language with Racket A kickstart workshop for the creative minds](https://youtu.be/fJvef31CuU0)
 
 ## Misc
 
