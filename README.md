@@ -30,6 +30,15 @@
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
 
+## Style Guides
+
+* [How to Program Racket: a Style Guide](https://docs.racket-lang.org/style/index.html)
+* [CS17 Racket Style Guide](https://cs.brown.edu/courses/cs017/content/docs/racket-style.pdf)
+* [Racket style guide for CPSC 201](https://zoo.cs.yale.edu/classes/cs201/Fall_2019/Racket-style-guide.html)
+* [CMSC 15100 Style guide](http://people.cs.uchicago.edu/~adamshaw/cmsc15100-2017/typed-racket-guide/style-guide.html)
+* [PL: Style Guide](https://pl.barzilay.org/style-guide.html)
+* [Examples of Style for Semicolon](http://www.lispworks.com/documentation/HyperSpec/Body/02_ddbe.htm)
+
 ## Libraries
 
 * [RackUnit](https://docs.racket-lang.org/rackunit/) -- Unit Testing
