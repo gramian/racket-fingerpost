@@ -47,6 +47,8 @@
 * [RackUnit](https://docs.racket-lang.org/rackunit/) -- Unit Testing
 * [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html)
 * [Math Library](https://docs.racket-lang.org/math/index.html)
+  * [Arrays](https://docs.racket-lang.org/math/array.html)
+  * [Matrices and Linear Algebra](https://docs.racket-lang.org/math/matrices.html)
 * [Benchmark](https://docs.racket-lang.org/benchmark/index.html)
 * [CPU Information](https://docs.racket-lang.org/cpuinfo/index.html)
 * [Graph Plotting](https://docs.racket-lang.org/plot/index.html)
@@ -86,7 +88,7 @@
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
 * [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
 * [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
-* [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
+  * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
 
 ## Exercises
 
@@ -97,6 +99,7 @@
 
 * [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
+* [Cognicast](https://blog.cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt - Episode 061
 
 ## Misc
 
