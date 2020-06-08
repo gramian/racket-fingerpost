@@ -93,6 +93,11 @@
 * [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 * [Exercism](https://exercism.io/tracks/racket) -- Racket track
 
+## Podcasts
+
+* [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
+* [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
+
 ## Misc
 
 * [RacketScript](https://github.com/vishesh/racketscript) -- Racket-to-Javascript transpiler
