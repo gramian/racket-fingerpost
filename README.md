@@ -22,6 +22,7 @@
 * [Learn Racket by Example: GUI Programming](https://dev.to/goober99/learn-racket-by-example-gui-programming-3epm)
 * [The programming language of your dreams](rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
 * [Scheme for scientific computing](http://fmnt.info/blog/20181029_scheme.html)
+* [Racket: A language-oriented programming project](https://jaxenter.com/racket-language-oriented-programming-141805.html)
 
 ## Resources
 
@@ -66,6 +67,8 @@
 
 * [Realm of Racket](https://www.realmofracket.com/)
 * [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html) -- 2nd Edition
+* [Racket Weekend](https://gumroad.com/l/racketweekend)
+* [Beautiful Racket](https://beautifulracket.com/)
 
 ## Videos
 
@@ -82,6 +85,11 @@
 * [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
 * [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
 * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
+
+## Exercises
+
+* [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
+* [Exercism](https://exercism.io/tracks/racket) -- Racket track
 
 ## Misc
 
