@@ -7,6 +7,7 @@
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 * [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
 * [Macros and Languages in Racket](https://rmculpepper.github.io/malr/index.html)
+* [CSE 341 - Programming Languages - Racket](https://courses.cs.washington.edu/courses/cse341/12au/racket/basics.html)
 
 ## News
 
@@ -30,6 +31,7 @@
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
+* [Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language)) -- Racket (programming language)
 
 ## Style Guides
 
