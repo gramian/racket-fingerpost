@@ -30,6 +30,7 @@
 
 ## Resources
 
+* [Racket Mailinglist](https://groups.google.com/forum/#!forum/racket-users)
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
@@ -96,8 +97,10 @@
 * [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk) -- Lambda World 2019
 * [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
+* [The Racket Manifesto](https://youtu.be/-cLI3GHvLOM) -- Curry On
 * [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
 * [Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s) -- Lambda Lounge Utah 2014
+* [Building Languages in Racket](https://youtu.be/y1rOWZkALto) -- RacketCon2012
 
 ## Exercises
 
