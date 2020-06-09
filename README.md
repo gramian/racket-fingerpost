@@ -84,6 +84,7 @@
 
 * [Racket Programming](https://www.youtube.com/playlist?list=PLsWq88lFdQCfZtDRUQVuGGbnthiEIeQdf)
 * [Functional Programming (Racket)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
+* [Racket in CS60](https://www.youtube.com/playlist?list=PLHqz-wcqDQIEThNEXViEb1iFh9vbOtUD_)
 * [Meta-Programming in Racket](https://youtu.be/Duvf1_GAZHM)
 
 ### Talks
@@ -93,6 +94,7 @@
 * [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
 * [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
+* [Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s) -- Lambda Lounge Utah 2014
 
 ## Exercises
 
