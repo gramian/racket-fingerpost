@@ -8,6 +8,9 @@
 * [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
 * [Macros and Languages in Racket](https://rmculpepper.github.io/malr/index.html)
 * [CSE 341 - Programming Languages - Racket](https://courses.cs.washington.edu/courses/cse341/12au/racket/basics.html)
+* [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/s20/)
+  * [Racket](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
+* [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
 
 ## News
 
@@ -32,6 +35,7 @@
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
 * [Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language)) -- Racket (programming language)
+* [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
 
 ## Style Guides
 
