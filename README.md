@@ -73,6 +73,7 @@
 * N. Toronto. J. McCarthy: "[Practically Accurate Floating-Point Math](https://doi.org/10.1109/MCSE.2014.90)", 2014.
 * S. Tobin-Hochstadt, V. St-Amour, R. Culpepper, M. Flatt, M. Felleisen: "[Languages as Libraries](https://doi.org/10.1145/1993498.1993514)", 2011.
 * M. Flatt: "[Creating Languages in Racket](https://doi.org/10.1145/2063176.2063195)", 2011.
+* N. Neuss: "[On Using Common Lisp for Scientific Computing](https://doi.org/10.1007/978-3-642-19014-8_11)", 2003.
 
 ## Books
 
@@ -97,10 +98,10 @@
 * [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk) -- Lambda World 2019
 * [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
-* [The Racket Manifesto](https://youtu.be/-cLI3GHvLOM) -- Curry On
+* [The Racket Manifesto](https://youtu.be/-cLI3GHvLOM) -- Curry On 2016
 * [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
 * [Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s) -- Lambda Lounge Utah 2014
-* [Building Languages in Racket](https://youtu.be/y1rOWZkALto) -- RacketCon2012
+* [Building Languages in Racket](https://youtu.be/y1rOWZkALto) -- RacketCon 2012
 
 ## Exercises
 
