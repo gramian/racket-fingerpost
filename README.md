@@ -33,6 +33,7 @@
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/racket) -- Tag: racket
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
 * [Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language)) -- Racket (programming language)
@@ -78,6 +79,7 @@
 * [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html) -- 2nd Edition
 * [Racket Weekend](https://gumroad.com/l/racketweekend)
 * [Beautiful Racket](https://beautifulracket.com/)
+* [Programmierparadigmen](https://doi.org/10.1007/978-3-658-14134-9) -- German language
 
 ## Videos
 
