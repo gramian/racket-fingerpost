@@ -9,7 +9,7 @@
 * [Macros and Languages in Racket](https://rmculpepper.github.io/malr/index.html)
 * [CSE 341 - Programming Languages - Racket](https://courses.cs.washington.edu/courses/cse341/12au/racket/basics.html)
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/s20/)
-  * [Racket](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
+  * [Racket Notes](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
 * [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
 
 ## News
@@ -32,10 +32,10 @@
 
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
+* [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
 * [Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language)) -- Racket (programming language)
-* [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
 
 ## Style Guides
 
@@ -65,11 +65,12 @@
 
 ## Articles
 
-* M. Flatt: "[Creating Languages in Racket](https://doi.org/10.1145/2063176.2063195)", 2011.
-* N. Toronto. J. McCarthy: "[Practically Accurate Floating-Point Math](https://doi.org/10.1109/MCSE.2014.90)", 2014.
-* M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi, E. Barzilay, J. McCarthy, S. Tobin-Hochstadt: "[The Racket Manifesto](https://doi.org/10.4230/LIPIcs.SNAPL.2015.113)", 2015.
-* M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi, E. Barzilay, J. McCarthy, S. Tobin-Hochstadt: "[A Programmable Programming Language](https://doi.org/10.1145/3127323)", 2018.
 * R. Culpepper, M. Felleisen, M. Flatt, S. Krishnamurthi: "[From Macros to DSLs: The Evolution of Racket](https://doi.org/10.4230/LIPIcs.SNAPL.2019.5)", 2019.
+* M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi, E. Barzilay, J. McCarthy, S. Tobin-Hochstadt: "[A Programmable Programming Language](https://doi.org/10.1145/3127323)", 2018.
+* M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi, E. Barzilay, J. McCarthy, S. Tobin-Hochstadt: "[The Racket Manifesto](https://doi.org/10.4230/LIPIcs.SNAPL.2015.113)", 2015.
+* N. Toronto. J. McCarthy: "[Practically Accurate Floating-Point Math](https://doi.org/10.1109/MCSE.2014.90)", 2014.
+* S. Tobin-Hochstadt, V. St-Amour, R. Culpepper, M. Flatt, M. Felleisen: "[Languages as Libraries](https://doi.org/10.1145/1993498.1993514)", 2011.
+* M. Flatt: "[Creating Languages in Racket](https://doi.org/10.1145/2063176.2063195)", 2011.
 
 ## Books
 
@@ -89,11 +90,11 @@
 
 ### Talks
 
-* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk) -- Lambda World 2019
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
-* [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
+* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk) -- Lambda World 2019
 * [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
+* [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
 * [Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s) -- Lambda Lounge Utah 2014
 
 ## Exercises
@@ -103,8 +104,8 @@
 
 ## Podcasts
 
-* [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
+* [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
 * [Cognicast](https://blog.cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt - Episode 061
 
 ## Misc
