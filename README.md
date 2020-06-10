@@ -12,6 +12,15 @@
   * [Racket Notes](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
 * [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
 
+## Lectures
+
+* [Introduction to Racket](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-1-Intro.pdf),
+  [Racket: Continuations](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-2-Continuations.pdf),
+  [Racket: Macros](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-3-Macros.pdf),
+  [Racket: Modules, Contracts, Languages](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-4-Modules.pdf)
+* [Racket structs](https://courses.cs.washington.edu/courses/cse413/14au/lectures/413fa14_grossman.pdf)
+* [Imperative programming with Racket](https://staff.fmi.uvt.ro/~mircea.marin/lectures/FP/L-06.pdf)
+
 ## News
 
 * [Racket News](https://racket-news.com/)
@@ -36,6 +45,7 @@
 * [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/racket) -- Tag: racket
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
+  * [Runge-Kutta-4](https://rosettacode.org/wiki/Runge-Kutta_method#Racket)
 * [Awesome Racket](https://github.com/avelino/awesome-racket) -- Curated list
 * [Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language)) -- Racket (programming language)
 
