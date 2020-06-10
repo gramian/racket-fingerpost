@@ -14,6 +14,8 @@
 
 ## Lectures
 
+* [CS3520 Programming Languages](https://my.eng.utah.edu/~cs3520/f18/schedule.html)
+* [CS17](https://cs.brown.edu/courses/cs017/notes.html)
 * [Introduction to Racket](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-1-Intro.pdf),
   [Racket: Continuations](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-2-Continuations.pdf),
   [Racket: Macros](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-3-Macros.pdf),
