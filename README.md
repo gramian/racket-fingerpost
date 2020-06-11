@@ -11,6 +11,7 @@
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/s20/)
   * [Racket Notes](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
 * [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
+* [CS201 Racket Notes](https://zoo.cs.yale.edu/classes/cs201/Fall_2019/lectures/racket.html)
 
 ## Lectures
 
@@ -22,6 +23,7 @@
   [Racket: Modules, Contracts, Languages](https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-4-Modules.pdf)
 * [Racket structs](https://courses.cs.washington.edu/courses/cse413/14au/lectures/413fa14_grossman.pdf)
 * [Imperative programming with Racket](https://staff.fmi.uvt.ro/~mircea.marin/lectures/FP/L-06.pdf)
+* [CS115 Course Notes](https://www.student.cs.uwaterloo.ca/~cs115/coursenotes1/1199/)
 
 ## News
 
