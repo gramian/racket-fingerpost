@@ -109,13 +109,14 @@
 ### Talks
 
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
-* [Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk) -- Lambda World 2019
-* [Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo) -- FOSDEM 2019
+* M. Felleisen: "[Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)" -- Lambda World 2019
+* J. Martin: "[Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo)" -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
-* [The Racket Manifesto](https://youtu.be/-cLI3GHvLOM) -- Curry On 2016
-* [Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234) -- Lambda Jam 2015
-* [Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s) -- Lambda Lounge Utah 2014
-* [Building Languages in Racket](https://youtu.be/y1rOWZkALto) -- RacketCon 2012
+* M. Felleisen: "[The Racket Manifesto](https://youtu.be/-cLI3GHvLOM)" -- Curry On 2016
+* R. Findler: "[Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)" -- Lambda Jam 2015
+* M. Flatt: "[Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s)" -- Lambda Lounge Utah 2014
+* J. McCarthy: "[Introduction to Functional Programming via Racket](https://youtu.be/K0TItrQNT8Q)" -- Lambda Lounge Utah 2014
+* M. Flatt: "[Building Languages in Racket](https://youtu.be/y1rOWZkALto)" -- RacketCon 2012
 
 ## Exercises
 
@@ -127,7 +128,7 @@
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
 * [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
 * [Cognicast](https://blog.cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt - Episode 061
-* [FLOSS Weekly](https://youtu.be/vJGV7HaTdbg) -- 167: Racket
+* [FLOSS Weekly](https://twit.tv/shows/floss-weekly/episodes/167) -- 167: Racket
 
 ## Misc
 
