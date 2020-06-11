@@ -10,7 +10,6 @@
 * [CSE 341 - Programming Languages - Racket](https://courses.cs.washington.edu/courses/cse341/12au/racket/basics.html)
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/s20/)
   * [Racket Notes](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
-* [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
 * [CS201 Racket Notes](https://zoo.cs.yale.edu/classes/cs201/Fall_2019/lectures/racket.html)
 
 ## Lectures
@@ -38,6 +37,7 @@
 * [Racket Workflow](https://www.greghendershott.com/2014/11/racket-workflow.html)
 * [Learn Racket by Example: GUI Programming](https://dev.to/goober99/learn-racket-by-example-gui-programming-3epm)
 * [The programming language of your dreams](rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
+* [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
 * [Scheme for scientific computing](http://fmnt.info/blog/20181029_scheme.html)
 * [Racket: A language-oriented programming project](https://jaxenter.com/racket-language-oriented-programming-141805.html)
 
@@ -45,6 +45,7 @@
 
 * [Racket Mailinglist](https://groups.google.com/forum/#!forum/racket-users)
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
+  * [Vector](https://docs.racket-lang.org/reference/vectors.html)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/racket) -- Tag: racket
