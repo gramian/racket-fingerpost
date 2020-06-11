@@ -127,6 +127,7 @@
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
 * [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
 * [Cognicast](https://blog.cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt - Episode 061
+* [FLOSS Weekly](https://youtu.be/vJGV7HaTdbg) -- 167: Racket
 
 ## Misc
 
