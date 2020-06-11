@@ -6,6 +6,7 @@
 * [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 * [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
+  * [Performance](https://docs.racket-lang.org/guide/performance.html)
 * [Macros and Languages in Racket](https://rmculpepper.github.io/malr/index.html)
 * [CSE 341 - Programming Languages - Racket](https://courses.cs.washington.edu/courses/cse341/12au/racket/basics.html)
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/s20/)
@@ -40,6 +41,7 @@
 * [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
 * [Scheme for scientific computing](http://fmnt.info/blog/20181029_scheme.html)
 * [Racket: A language-oriented programming project](https://jaxenter.com/racket-language-oriented-programming-141805.html)
+* [Racket on Raspberry Pi](https://danielkvasnicka.tumblr.com/post/54741297421/racket-on-raspberry-pi-the-importance-of-being/amp) -- The importance of being JITted
 
 ## Resources
 
