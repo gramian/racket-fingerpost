@@ -113,6 +113,7 @@
 
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
 * M. Felleisen: "[Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)" -- Lambda World 2019
+* C. Webber: "[A Guiler's Year of Racket](https://youtu.be/R-hy8xLlkHA)" -- FOSDEM 2019
 * J. Martin: "[Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo)" -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
 * M. Felleisen: "[The Racket Manifesto](https://youtu.be/-cLI3GHvLOM)" -- Curry On 2016
