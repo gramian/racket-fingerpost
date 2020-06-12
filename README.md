@@ -2,7 +2,7 @@
 
 ## Tutorials
 
-* [Learn X in Y minutes](https://learnxinyminutes.com/docs/racket/) -- Where X = Racket
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/racket/) -- Where X = Racket :+1:
 * [Quick: An Introduction to Racket with Pictures](https://docs.racket-lang.org/quick/)
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)
 * [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
@@ -117,7 +117,7 @@
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
 * M. Felleisen: "[The Racket Manifesto](https://youtu.be/-cLI3GHvLOM)" -- Curry On 2016
 * R. Findler: "[Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)" -- Lambda Jam 2015
-* M. Flatt: "[Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s)" -- Lambda Lounge Utah 2014
+* M. Flatt: "[Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s)" -- Lambda Lounge Utah 2014 :+1:
 * J. McCarthy: "[Introduction to Functional Programming via Racket](https://youtu.be/K0TItrQNT8Q)" -- Lambda Lounge Utah 2014
 * M. Flatt: "[Building Languages in Racket](https://youtu.be/y1rOWZkALto)" -- RacketCon 2012
 
