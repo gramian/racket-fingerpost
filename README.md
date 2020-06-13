@@ -12,6 +12,10 @@
 * [Principles of Programming Languages](https://cs.wellesley.edu/~cs251/s20/)
   * [Racket Notes](https://cs.wellesley.edu/~cs251/f15/notes/racket.html)
 * [CS201 Racket Notes](https://zoo.cs.yale.edu/classes/cs201/Fall_2019/lectures/racket.html)
+* [CS3540](https://www.cs.uni.edu/~wallingf/teaching/cs3540/sessions/index.html)
+* [CS3613](https://www.cs.unb.ca/~bremner/teaching/cs3613/tutorials/)
+* [EECS111](https://slim.computer/eecs-111-ta-guide/meta/Introduction.html)
+* [F*dging up a Racket](https://www.hashcollision.org/brainfudge/index.html)
 
 ## Lectures
 
@@ -24,6 +28,7 @@
 * [Racket structs](https://courses.cs.washington.edu/courses/cse413/14au/lectures/413fa14_grossman.pdf)
 * [Imperative programming with Racket](https://staff.fmi.uvt.ro/~mircea.marin/lectures/FP/L-06.pdf)
 * [CS115 Course Notes](https://www.student.cs.uwaterloo.ca/~cs115/coursenotes1/1199/)
+* [CS135](https://www.student.cs.uwaterloo.ca/~cs135/cc/)
 
 ## News
 
@@ -94,11 +99,11 @@
 
 ## Books
 
-* [Realm of Racket](https://www.realmofracket.com/)
-* [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html) -- 2nd Edition
-* [Racket Weekend](https://gumroad.com/l/racketweekend)
-* [Beautiful Racket](https://beautifulracket.com/)
-* [Programmierparadigmen](https://doi.org/10.1007/978-3-658-14134-9) -- German language
+* F. Bice, R. DeMaio, S. Florence, M. Lin, S. Lindeman, N. Nussbaum, E. Peterson, R. Plessner, D. Van Horn, M. Felleisen, C. Barski: "[Realm of Racket](https://www.realmofracket.com/)"
+* M. Felleisen, R.B. Findler, M. Flatt, Shriram Krishnamurthi: "[How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)" -- 2nd Edition
+* J. Alama: "[Racket Weekend](https://gumroad.com/l/racketweekend)"
+* M. Butterick: "[Beautiful Racket](https://beautifulracket.com/)"
+* C. Wagenknecht: "[Programmierparadigmen](https://doi.org/10.1007/978-3-658-14134-9)" -- German language
 
 ## Videos
 
