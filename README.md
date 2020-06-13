@@ -143,3 +143,4 @@
 
 * [RacketScript](https://github.com/vishesh/racketscript) -- Racket-to-Javascript transpiler
 * [Null Coalescing Operator](https://en.wikipedia.org/wiki/Null_coalescing_operator#Clojure) -- in Clojure
+* [ODE solver as a functional fold](https://www.johndcook.com/blog/2016/06/02/ode-solver-as-a-functional-fold/) -- Functional Runge-Kutta
