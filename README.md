@@ -1,5 +1,7 @@
 # Racket Fingerpost
 
+https://racket-lang.org
+
 ## Tutorials
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/racket/) -- Where X = Racket :+1:
@@ -36,6 +38,7 @@
 * [Racket Stories](https://racket-stories.com/)
 * [Racket Blog](https://blog.racket-lang.org/)
 * [@racketlang](https://twitter.com/racketlang)
+* [racketlang](https://www.facebook.com/racketlang)
 
 ## Blogs
 
@@ -51,6 +54,7 @@
 ## Resources
 
 * [Racket Mailinglist](https://groups.google.com/forum/#!forum/racket-users)
+* [Facebook Group](https://www.facebook.com/groups/436305706723234)
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
   * [Vector](https://docs.racket-lang.org/reference/vectors.html)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
