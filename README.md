@@ -89,6 +89,7 @@ https://racket-lang.org
 
 * [PLT-Racket-Linear-Algebra-Bindings](https://github.com/farr/PLT-Racket-Linear-Algebra-Bindings) -- BLAS/LAPACK bindings
 * [flmatrix](https://github.com/soegaard/flmatrix) -- BLAS/LAPACK bindings
+* [sci](https://github.com/soegaard/sci/) -- SCientific Computing
 * [racket-review](https://github.com/Bogdanp/racket-review) -- Linter
 
 ## Articles
