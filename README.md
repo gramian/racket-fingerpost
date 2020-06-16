@@ -1,6 +1,4 @@
-# Racket Fingerpost
-
-https://racket-lang.org
+# [Racket](https://racket-lang.org) Fingerpost
 
 ## Tutorials
 
