@@ -55,8 +55,11 @@
 * [Facebook Group](https://www.facebook.com/groups/436305706723234)
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
   * [Vector](https://docs.racket-lang.org/reference/vectors.html)
+* [Racket Packages](https://pkgs.racket-lang.org/)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
+* [Racket @ github](https://github.com/racket)
+  * [Racket Wiki](https://github.com/racket/racket/wiki)
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/racket) -- Tag: racket
 * [Rosetta Code](https://rosettacode.org/wiki/Category:Racket) -- Category Racket
   * [Runge-Kutta-4](https://rosettacode.org/wiki/Runge-Kutta_method#Racket)
