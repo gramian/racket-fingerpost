@@ -110,6 +110,7 @@
 * M. Felleisen, R.B. Findler, M. Flatt, Shriram Krishnamurthi: "[How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)" -- 2nd Edition
 * J. Alama: "[Racket Weekend](https://gumroad.com/l/racketweekend)"
 * M. Butterick: "[Beautiful Racket](https://beautifulracket.com/)"
+* J. Stelly: "[Racket Programming the Fun Way](https://www.penguinrandomhouse.com/books/645955/racket-programming-the-fun-way-by-james-stelly/)" -- Upcoming
 * C. Wagenknecht: "[Programmierparadigmen](https://doi.org/10.1007/978-3-658-14134-9)" -- German language
 
 ## Videos
