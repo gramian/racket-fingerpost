@@ -91,6 +91,7 @@
 * [PLT-Racket-Linear-Algebra-Bindings](https://github.com/farr/PLT-Racket-Linear-Algebra-Bindings) -- BLAS/LAPACK bindings
 * [flmatrix](https://github.com/soegaard/flmatrix) -- BLAS/LAPACK bindings
 * [sci](https://github.com/soegaard/sci/) -- Scientific Computing
+* [softposit-rkt](https://github.com/DavidThien/softposit-rkt) -- Racket bindings for the SoftPosit library
 * [racket-review](https://github.com/Bogdanp/racket-review) -- Linter
 
 ## Articles
