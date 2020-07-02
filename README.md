@@ -93,6 +93,7 @@
 * [sci](https://github.com/soegaard/sci/) -- Scientific Computing
 * [softposit-rkt](https://github.com/DavidThien/softposit-rkt) -- Racket bindings for the SoftPosit library
 * [racket-review](https://github.com/Bogdanp/racket-review) -- Linter
+* [Racket_NumericalMethods](https://github.com/mkierzenka/Racket_NumericalMethods) -- Collection of numerical methods 
 
 ## Articles
 
