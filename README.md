@@ -147,9 +147,11 @@
 ## Podcasts
 
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
-* [Functional Geekery](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Episode 24 - Matthew Flatt
-* [Cognicast](https://blog.cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt - Episode 061
-* [FLOSS Weekly](https://twit.tv/shows/floss-weekly/episodes/167) -- 167: Racket
+* [Functional Geekery - 24](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Matthew Flatt
+* [Functional Geekery - 68](https://www.functionalgeekery.com/episode-68-matthew-butterick/) -- Matthew Butterick
+* [Cognicast - 061](https://cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt
+* [Cognicast - 084](https://cognitect.com/cognicast/084) -- Matthew Flatt
+* [FLOSS Weekly - 167](https://twit.tv/shows/floss-weekly/episodes/167) -- Racket
 
 ## Misc
 
