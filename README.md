@@ -130,6 +130,7 @@
 * C. Webber: "[A Guiler's Year of Racket](https://youtu.be/R-hy8xLlkHA)" -- FOSDEM 2019
 * J. Martin: "[Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo)" -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
+* J. Bartlett: "[Introduction to Scheme Programming](https://youtu.be/6k78c8EctXI)" -- (Python as Scheme Macros via Racket)
 * A. Balaam: "[Scheme Lisp: Feel the Cool](https://youtu.be/tA1clbGDczI)" -- ACCU2018 (1:05:23, example how to write car and cdr)
 * M. Felleisen: "[The Racket Manifesto](https://youtu.be/-cLI3GHvLOM)" -- Curry On 2016
 * R. Findler: "[Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)" -- Lambda Jam 2015
