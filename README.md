@@ -96,6 +96,8 @@
 * [racket-review](https://github.com/Bogdanp/racket-review) -- Linter
 * [Racket_NumericalMethods](https://github.com/mkierzenka/Racket_NumericalMethods) -- Collection of numerical methods 
 * [wisp](https://www.draketo.de/proj/wisp/src/94bae1032ef07e441a942c5881bb00963f27841a/racket/) -- Whitespace to LISP in Racket
+* [racket-something](https://github.com/tonyg/racket-something) -- Indentation-based Racket Syntax
+* [sweet-racket](https://github.com/takikawa/sweet-racket) -- Sweet expressions for Racket
 
 ## Articles
 
