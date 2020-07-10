@@ -152,6 +152,7 @@
 
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) -- Racket with Matthew Flatt
 * [Functional Geekery - 24](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- Matthew Flatt
+* [Functional Geekery - 48](https://www.functionalgeekery.com/episode-48-matthias-felleisen/) -- Matthias Felleisen
 * [Functional Geekery - 68](https://www.functionalgeekery.com/episode-68-matthew-butterick/) -- Matthew Butterick
 * [Cognicast - 061](https://cognitect.com/cognicast/061-matthew-flatt) --  Matthew Flatt
 * [Cognicast - 084](https://cognitect.com/cognicast/084) -- Matthew Flatt
