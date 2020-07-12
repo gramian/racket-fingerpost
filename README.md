@@ -16,6 +16,7 @@
 * [CS3613](https://www.cs.unb.ca/~bremner/teaching/cs3613/tutorials/)
 * [EECS111](https://slim.computer/eecs-111-ta-guide/meta/Introduction.html)
 * [F*dging up a Racket](https://www.hashcollision.org/brainfudge/index.html)
+* [Scheme](http://www.minimalprogramming.org/html/section.scheme.quick-tour.html) -- Programming Languages at a Glance (Chapter 10)
 
 ## Lectures
 
