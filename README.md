@@ -56,6 +56,7 @@
 * [Facebook Group](https://www.facebook.com/groups/436305706723234)
 * [The Racket Reference](https://docs.racket-lang.org/reference/index.html)
   * [Vector](https://docs.racket-lang.org/reference/vectors.html)
+  * [Metadata](https://docs.racket-lang.org/pkg/metadata.html) -- Metadata in Racket is Racket code! 
 * [Racket Packages](https://pkgs.racket-lang.org/)
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [Racket FAQ](https://www.cs.uni.edu/~wallingf/teaching/cs3540/resources/scheme-faq.html)
