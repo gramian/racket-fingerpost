@@ -167,3 +167,4 @@
 * [Comment Macro](https://clojuredocs.org/clojure.core/comment) -- in Clojure
 * [F#'s pipe in Racket](https://gist.github.com/fbanados/d6e0134ff226abe71984a2221bbc7234)
 * [ODE solver as a functional fold](https://www.johndcook.com/blog/2016/06/02/ode-solver-as-a-functional-fold/) -- Functional Runge-Kutta
+* [Evolution of a Scheme Programmer](https://erkin.party/blog/200715/evolution/) :+1:
