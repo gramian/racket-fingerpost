@@ -133,6 +133,7 @@
 ### Talks
 
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
+* M. Flatt: "[Rebuilding Racket on Chez Scheme Experience Report](https://youtu.be/s3Q3M2wZ7rI)" -- SIGPLAN ICFP 2019
 * M. Felleisen: "[Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)" -- Lambda World 2019
 * C. Webber: "[A Guiler's Year of Racket](https://youtu.be/R-hy8xLlkHA)" -- FOSDEM 2019
 * J. Martin: "[Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo)" -- FOSDEM 2019
