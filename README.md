@@ -145,6 +145,7 @@
 * M. Flatt: "[Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s)" -- Lambda Lounge Utah 2014 :+1:
 * J. McCarthy: "[Introduction to Functional Programming via Racket](https://youtu.be/K0TItrQNT8Q)" -- Lambda Lounge Utah 2014
 * M. Flatt: "[Building Languages in Racket](https://youtu.be/y1rOWZkALto)" -- RacketCon 2012
+* M. Flatt: "[Delimited and Composable Continuations in PLT Scheme](https://archive.org/details/Microsoft_Research_Video_103761)" -- Microsoft Research 2008
 
 ## Exercises
 
@@ -159,7 +160,7 @@
 * [Functional Geekery - 68](https://www.functionalgeekery.com/episode-68-matthew-butterick/) -- M. Butterick
 * [Cognicast - 061](https://cognitect.com/cognicast/061-matthew-flatt) --  M. Flatt
 * [Cognicast - 084](https://cognitect.com/cognicast/084) -- M. Flatt
-* [Cognicast - 108](https://cognitect.com/cognicast/108) - S. Tobin-Hochstadt
+* [Cognicast - 108](https://cognitect.com/cognicast/108) -- S. Tobin-Hochstadt
 * [FLOSS Weekly - 167](https://twit.tv/shows/floss-weekly/episodes/167) -- Racket
 
 ## Misc
