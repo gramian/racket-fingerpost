@@ -173,4 +173,5 @@
 * [F#'s pipe in Racket](https://gist.github.com/fbanados/d6e0134ff226abe71984a2221bbc7234)
 * [ODE solver as a functional fold](https://www.johndcook.com/blog/2016/06/02/ode-solver-as-a-functional-fold/) -- Functional Runge-Kutta
 * [Evolution of a Scheme Programmer](https://erkin.party/blog/200715/evolution/) :+1:
-* [Chez Scheme modules](http://community.schemewiki.org/?module-example-chez) -- (Compiled) shell scripts with Scheme 
+* [Chez Scheme modules](http://community.schemewiki.org/?module-example-chez) -- (Compiled) shell scripts with Scheme
+* [Scheme is Love](https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/october/%7B-end-bracket-%7D-scheme-is-love) -- MSDN Magazine 10/05
