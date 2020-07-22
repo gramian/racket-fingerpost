@@ -158,6 +158,7 @@
 * [Functional Geekery - 24](https://www.functionalgeekery.com/episode-24-matthew-flatt/) -- M. Flatt
 * [Functional Geekery - 48](https://www.functionalgeekery.com/episode-48-matthias-felleisen/) -- M. Felleisen :+1:
 * [Functional Geekery - 68](https://www.functionalgeekery.com/episode-68-matthew-butterick/) -- M. Butterick
+* [Functional Geekery - 91](https://www.functionalgeekery.com/episode-91-jay-mccarthy/) -- J. McCarthy
 * [Cognicast - 061](https://cognitect.com/cognicast/061-matthew-flatt) --  M. Flatt
 * [Cognicast - 084](https://cognitect.com/cognicast/084) -- M. Flatt
 * [Cognicast - 108](https://cognitect.com/cognicast/108) -- S. Tobin-Hochstadt
