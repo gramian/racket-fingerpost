@@ -110,6 +110,7 @@
 * S. Tobin-Hochstadt, V. St-Amour, R. Culpepper, M. Flatt, M. Felleisen: "[Languages as Libraries](https://doi.org/10.1145/1993498.1993514)", 2011.
 * M. Flatt: "[Creating Languages in Racket](https://doi.org/10.1145/2063176.2063195)", 2011.
 * N. Neuss: "[On Using Common Lisp for Scientific Computing](https://doi.org/10.1007/978-3-642-19014-8_11)", 2003.
+* A. Berlin, D,. Weise: "[Compiling Scientific Code Using Partial Evaluation](https://archive.org/details/computer-magazine-1990-12/page/n25/mode/2up)", 1990.
 
 ## Books
 
