@@ -115,7 +115,7 @@
 ## Books
 
 * F. Bice, R. DeMaio, S. Florence, M. Lin, S. Lindeman, N. Nussbaum, E. Peterson, R. Plessner, D. Van Horn, M. Felleisen, C. Barski: "[Realm of Racket](https://www.realmofracket.com/)"
-* M. Felleisen, R.B. Findler, M. Flatt, Shriram Krishnamurthi: "[How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)" -- 2nd Edition
+* M. Felleisen, R.B. Findler, M. Flatt, S. Krishnamurthi: "[How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)" -- 2nd Edition
 * J. Alama: "[Racket Weekend](https://gumroad.com/l/racketweekend)"
 * M. Butterick: "[Beautiful Racket](https://beautifulracket.com/)"
 * S. Krishnamurthi: "[Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)" -- 2nd Edition
