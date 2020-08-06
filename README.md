@@ -134,6 +134,7 @@
 ### Talks
 
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
+* [SICP](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) -- Virtual Programming Languages Meetup
 * M. Flatt: "[Rebuilding Racket on Chez Scheme Experience Report](https://youtu.be/s3Q3M2wZ7rI)" -- SIGPLAN ICFP 2019
 * M. Felleisen: "[Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)" -- Lambda World 2019
 * C. Webber: "[A Guiler's Year of Racket](https://youtu.be/R-hy8xLlkHA)" -- FOSDEM 2019
@@ -168,7 +169,7 @@
 ## Misc
 
 * [RacketScript](https://github.com/vishesh/racketscript) -- Racket-to-Javascript transpiler
-* [Null Coalescing Operator](https://en.wikipedia.org/wiki/Null_coalescing_operator#Clojure) -- in Clojure
+* [Null Coalescing Operator](https://en.wikipedia.org/wiki/Null_coalescing_operator#Clojure)
 * [Comment Macro](https://clojuredocs.org/clojure.core/comment) -- in Clojure
 * [F#'s pipe in Racket](https://gist.github.com/fbanados/d6e0134ff226abe71984a2221bbc7234)
 * [ODE solver as a functional fold](https://www.johndcook.com/blog/2016/06/02/ode-solver-as-a-functional-fold/) -- Functional Runge-Kutta
