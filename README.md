@@ -84,6 +84,7 @@
 * [Math Library](https://docs.racket-lang.org/math/index.html)
   * [Arrays](https://docs.racket-lang.org/math/array.html)
   * [Matrices and Linear Algebra](https://docs.racket-lang.org/math/matrices.html)
+  * [Flomat: Floating Point Matrices](https://docs.racket-lang.org/manual-flomat/index.html)
 * [Benchmark](https://docs.racket-lang.org/benchmark/index.html)
 * [CPU Information](https://docs.racket-lang.org/cpuinfo/index.html)
 * [Graph Plotting](https://docs.racket-lang.org/plot/index.html)
