@@ -131,6 +131,7 @@
 * [Functional Programming (Racket)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
 * [Racket in CS60](https://www.youtube.com/playlist?list=PLHqz-wcqDQIEThNEXViEb1iFh9vbOtUD_)
 * [Meta-Programming in Racket](https://youtu.be/Duvf1_GAZHM)
+* [Flexible Systems, The Power of Generic Operations](https://vimeo.com/151465912)
 
 ### Talks
 
