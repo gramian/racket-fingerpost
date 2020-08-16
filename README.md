@@ -131,7 +131,6 @@
 * [Functional Programming (Racket)](https://www.youtube.com/playlist?list=PLIRuSslToIDjbx6Q13syDihN7WJcqQF_k)
 * [Racket in CS60](https://www.youtube.com/playlist?list=PLHqz-wcqDQIEThNEXViEb1iFh9vbOtUD_)
 * [Meta-Programming in Racket](https://youtu.be/Duvf1_GAZHM)
-* [Flexible Systems, The Power of Generic Operations](https://vimeo.com/151465912)
 
 ### Talks
 
@@ -145,6 +144,7 @@
 * J. Bartlett: "[Introduction to Scheme Programming](https://youtu.be/6k78c8EctXI)" -- (Python as Scheme Macros via Racket)
 * A. Balaam: "[Scheme Lisp: Feel the Cool](https://youtu.be/tA1clbGDczI)" -- ACCU2018 (1:05:23, example how to write car and cdr)
 * M. Felleisen: "[The Racket Manifesto](https://youtu.be/-cLI3GHvLOM)" -- Curry On 2016
+* G.J. Sussman: "[Flexible Systems, The Power of Generic Operations](https://vimeo.com/151465912)" -- LispNYC 2016
 * R. Findler: "[Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)" -- Lambda Jam 2015
 * M. Flatt: "[Macros, Modules, and Languages in Racket](https://youtu.be/Z4qn9NFfb9s)" -- Lambda Lounge Utah 2014 :+1:
 * J. McCarthy: "[Introduction to Functional Programming via Racket](https://youtu.be/K0TItrQNT8Q)" -- Lambda Lounge Utah 2014
