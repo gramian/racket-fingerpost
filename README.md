@@ -179,3 +179,4 @@
 * [Chez Scheme modules](http://community.schemewiki.org/?module-example-chez) -- (Compiled) shell scripts with Scheme
 * [Scheme is Love](https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/october/%7B-end-bracket-%7D-scheme-is-love) -- MSDN Magazine 10/05
 * [Getting Clojure](https://cleancoders.com/episode/clean-code-episode-62) -- Clean Code: Functional Programming, Episode 62
+* [Language of the Month](https://www.kidscodecs.com/racket-language/) -- beanz
