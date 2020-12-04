@@ -16,7 +16,6 @@
 * [CS3613](https://www.cs.unb.ca/~bremner/teaching/cs3613/tutorials/)
 * [EECS111](https://slim.computer/eecs-111-ta-guide/meta/Introduction.html)
 * [F*dging up a Racket](https://www.hashcollision.org/brainfudge/index.html)
-* [Scheme](http://www.minimalprogramming.org/html/section.scheme.quick-tour.html) -- Programming Languages at a Glance (Chapter 10)
 
 ## Lectures
 
@@ -46,7 +45,6 @@
 * [Learn Racket by Example: GUI Programming](https://dev.to/goober99/learn-racket-by-example-gui-programming-3epm)
 * [The programming language of your dreams](rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
 * [Learning Racket 1](https://artyom.me/learning-racket-1), [Learning Racket 2](https://artyom.me/learning-racket-2)
-* [Scheme for scientific computing](http://fmnt.info/blog/20181029_scheme.html)
 * [Racket: A language-oriented programming project](https://jaxenter.com/racket-language-oriented-programming-141805.html)
 * [Racket on Raspberry Pi](https://danielkvasnicka.tumblr.com/post/54741297421/racket-on-raspberry-pi-the-importance-of-being/amp) -- The importance of being JITted
 
@@ -110,8 +108,6 @@
 * N. Toronto. J. McCarthy: "[Practically Accurate Floating-Point Math](https://doi.org/10.1109/MCSE.2014.90)", 2014.
 * S. Tobin-Hochstadt, V. St-Amour, R. Culpepper, M. Flatt, M. Felleisen: "[Languages as Libraries](https://doi.org/10.1145/1993498.1993514)", 2011.
 * M. Flatt: "[Creating Languages in Racket](https://doi.org/10.1145/2063176.2063195)", 2011.
-* N. Neuss: "[On Using Common Lisp for Scientific Computing](https://doi.org/10.1007/978-3-642-19014-8_11)", 2003.
-* A. Berlin, D,. Weise: "[Compiling Scientific Code Using Partial Evaluation](https://archive.org/details/computer-magazine-1990-12/page/n25/mode/2up)", 1990.
 
 ## Books
 
@@ -163,6 +159,7 @@
 * [Functional Geekery - 48](https://www.functionalgeekery.com/episode-48-matthias-felleisen/) -- M. Felleisen :+1:
 * [Functional Geekery - 68](https://www.functionalgeekery.com/episode-68-matthew-butterick/) -- M. Butterick
 * [Functional Geekery - 91](https://www.functionalgeekery.com/episode-91-jay-mccarthy/) -- J. McCarthy
+* [Functional Geekery - 95](https://www.functionalgeekery.com/episode-95-dan-friedman/) -- D. Friedman
 * [Cognicast - 061](https://cognitect.com/cognicast/061-matthew-flatt) --  M. Flatt
 * [Cognicast - 084](https://cognitect.com/cognicast/084) -- M. Flatt
 * [Cognicast - 108](https://cognitect.com/cognicast/108) -- S. Tobin-Hochstadt
@@ -171,12 +168,5 @@
 ## Misc
 
 * [RacketScript](https://github.com/vishesh/racketscript) -- Racket-to-Javascript transpiler
-* [Null Coalescing Operator](https://en.wikipedia.org/wiki/Null_coalescing_operator#Clojure)
-* [Comment Macro](https://clojuredocs.org/clojure.core/comment) -- in Clojure
 * [F#'s pipe in Racket](https://gist.github.com/fbanados/d6e0134ff226abe71984a2221bbc7234)
-* [ODE solver as a functional fold](https://www.johndcook.com/blog/2016/06/02/ode-solver-as-a-functional-fold/) -- Functional Runge-Kutta
-* [Evolution of a Scheme Programmer](https://erkin.party/blog/200715/evolution/) :+1:
-* [Chez Scheme modules](http://community.schemewiki.org/?module-example-chez) -- (Compiled) shell scripts with Scheme
-* [Scheme is Love](https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/october/%7B-end-bracket-%7D-scheme-is-love) -- MSDN Magazine 10/05
-* [Getting Clojure](https://cleancoders.com/episode/clean-code-episode-62) -- Clean Code: Functional Programming, Episode 62
 * [Language of the Month](https://www.kidscodecs.com/racket-language/) -- beanz
