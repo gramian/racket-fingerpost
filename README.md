@@ -132,13 +132,13 @@
 
 * [Racket Lang](https://www.youtube.com/user/racketlang/) -- RacketCon recordings
 * [SICP](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) -- Virtual Programming Languages Meetup
+* M. Sperber: "[All Programming Language Suck? Just Build Your Own! – Language-Oriented Programming with Racket](https://media.ccc.de/v/rc3-257534-all_programming_language_suck_just_build_your_own_language_oriented_programming_with_racket)" -- rC3 2020
 * M. Flatt: "[Rebuilding Racket on Chez Scheme Experience Report](https://youtu.be/s3Q3M2wZ7rI)" -- SIGPLAN ICFP 2019
 * M. Felleisen: "[Language-Oriented Programming with Racket](https://youtu.be/z8Pz4bJV3Tk)" -- Lambda World 2019
 * C. Webber: "[A Guiler's Year of Racket](https://youtu.be/R-hy8xLlkHA)" -- FOSDEM 2019
 * J. Martin: "[Why JSON when you can DSL?](https://youtu.be/0bqPYIuFvpo)" -- FOSDEM 2019
   * [Make your own language with Racket](https://youtu.be/fJvef31CuU0) -- A kickstart workshop for the creative minds
 * J. Bartlett: "[Introduction to Scheme Programming](https://youtu.be/6k78c8EctXI)" -- (Python as Scheme Macros via Racket)
-* A. Balaam: "[Scheme Lisp: Feel the Cool](https://youtu.be/tA1clbGDczI)" -- ACCU2018 (1:05:23, example how to write car and cdr)
 * M. Felleisen: "[The Racket Manifesto](https://youtu.be/-cLI3GHvLOM)" -- Curry On 2016
 * G.J. Sussman: "[Flexible Systems, The Power of Generic Operations](https://vimeo.com/151465912)" -- LispNYC 2016
 * R. Findler: "[Racket: A Programming-Language Programming Language](https://youtu.be/hFlIl0Zo234)" -- Lambda Jam 2015
